@@ -1,0 +1,41 @@
+.navbar-text {
+    position: relative;
+    left: -100px;
+}
+
+.nav-bgcolor {
+    background-color:blueviolet;
+}
+
+.navbar a {
+    color: white;
+}
+
+.dropdown-menu a {
+    color: black;
+}
+
+.jumbo {
+    background-color: rgba(0, 0, 0, 0.404);
+    color: white;
+    text-align: center;
+    width: 60%;
+}
+
+.jumbotron-container {
+    height: 90vh;
+    width: 100%;
+    background-image: url(night.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.jumbo-btn {
+    color:white;
+    border-color: transparent;
+    background-color:crimson;
+}
